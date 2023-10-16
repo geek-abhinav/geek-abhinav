@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hello, I'm Abhinav! 👋</h1>
+  <h1>Welcome to My GitHub Profile! 👋</h1>
   <img src="https://your-image-url-here.com" alt="Profile Picture">
   <p>Turning lines of code into works of art.</p>
 </div>
@@ -49,7 +49,7 @@ Connect with me on LinkedIn, drop me an email, or explore my projects below. Let
 ---
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/geekabhinav11" target="_blank"><img src="https://github.com/geekyabhinav11/geekyabhinav11/blob/main/linkedin.png" alt="LinkedIn" width="40" height="40"></a>
-  <a href="mailto:youremail@example.com"><img src="https://github.com/geekyabhinav11/geekyabhinav11/blob/main/mail.png" alt="Email" width="40" height="40"></a>
+  <a href="https://www.linkedin.com/in/geekabhinav11" target="_blank"><img src="https://github.com/geek-abhinav/geek-abhinav/blob/main/linkedin%20(1).png" alt="LinkedIn" width="40" height="40"></a>
+  <a href="beingabhinavtiwari@gmail.com"><img src="https://github.com/geek-abhinav/geek-abhinav/blob/main/mail%20(1).png" alt="Email" width="40" height="40"></a>
 </div>
 
